@@ -11,8 +11,8 @@ page_sections:
     link_text: About us
   - link: "/"
     link_text: Schools
-  - link: "#customize"
-    link_text: Customize
+  - link: "#communitites"
+    link_text: Communities
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"

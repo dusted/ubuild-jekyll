@@ -13,8 +13,8 @@ page_sections:
     link_text: Schools
   - link: "#communitites"
     link_text: Communities
-  - link: "#responsive"
-    link_text: Responsive
+  - link: "#case-studies"
+    link_text: Case studies
   - link: "#blocks"
     link_text: Blocks
   cta:

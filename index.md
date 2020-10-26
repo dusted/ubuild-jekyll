@@ -15,8 +15,8 @@ page_sections:
     link_text: Communities
   - link: "#case-studies"
     link_text: Case studies
-  - link: "#blocks"
-    link_text: Blocks
+  - link: "#contact"
+    link_text: Contact
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import

@@ -10,7 +10,7 @@ page_sections:
   - link: "#about"
     link_text: About us
   - link: "/"
-    link_text: Ubuild
+    link_text: Schools
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"

@@ -33,7 +33,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2020/10/26/kenwood-017-low-res.jpg"
+  background_image: "/uploads/2020/10/26/forest-school-with-bev.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right

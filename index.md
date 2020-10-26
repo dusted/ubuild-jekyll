@@ -32,7 +32,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2020/10/26/kenwood-017-low-res.jpg"
 - template: content-feature
   block: feature-1
